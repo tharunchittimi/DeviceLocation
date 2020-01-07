@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="light_grey">#FFCCC8C6</color>
+    <color name="light_blue">#26C6DA</color>
+    <color name="grey">#D5D5D5</color>
+    <color name="primary_dark">#03A9F4</color>
+    <color name="theme2">#0097A7</color>
+    <color name="actBar">#00BCD4</color>
+    <color name="orange">#FFBD55</color>
+    <color name="scanBag">#E8E8E9</color>
+    <color name="greyBrown">#E0E0E0</color>
+    <color name="light_greyBrown">#EEEEEE</color>
+    <color name="icon_grey">#BDBDBD</color>
+    <color name="gold">#FFD740</color>
+    <color name="violet">#AB47BC</color>
+    <color name="red">#EF5350</color>
+    <color name="yello">#C6FF00</color>
+    <color name="Green">#76FF03</color>
+</resources>
